@@ -7,4 +7,11 @@ certain conditions
 Q1: Why might be consider using git?
 
 Answer: Keeping track of porjects
-q1
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is the safer option that preserves the entire history of your repository, 
+while 
+rebasing creates a linear history by moving your feature branch onto the tip of main .
+
