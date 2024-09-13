@@ -15,3 +15,6 @@ Answer: Merging is the safer option that preserves the entire history of your re
 while 
 rebasing creates a linear history by moving your feature branch onto the tip of main .
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to better my understanding with libraries like numPy, pyTorch, and pandas
